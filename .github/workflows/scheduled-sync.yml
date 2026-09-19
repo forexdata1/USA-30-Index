@@ -22,7 +22,7 @@ permissions:
   contents: read
 
 env:
-  DEFAULT_SYMBOLS: "XAUUSD"
+  DEFAULT_SYMBOLS: "usa30idxusd"
   HF_DATASET: Esmaeil9ss/Tickdata
 
 jobs:
